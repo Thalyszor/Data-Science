@@ -1,9 +1,4 @@
- Morbidade Hospitalar do SUS - por local de residência - Rio Grande do Sul
-Internações por Macrorregião de Saúde e Ano processamento
-Capítulo CID-10: V.   Transtornos mentais e comportamentais
-Lista Morb  CID-10: Outros transtornos mentais e comportamentais
-Período:Jan/2008-Fev/2026
-"Macrorregião de Saúde";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"2024";"2025";"2026";"Total"
+"MacrorregiÃ£o de SaÃºde";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"2024";"2025";"2026";"Total"
 "4308 VALES";134;109;63;47;55;71;107;118;106;95;98;175;134;149;197;205;200;234;30;2327
 "4309 SUL";211;243;246;191;241;215;232;243;229;271;216;216;156;134;175;220;251;244;42;3976
 "4310 SERRA";72;53;50;92;121;152;132;162;127;117;163;151;149;128;116;119;113;122;16;2155
@@ -12,9 +7,4 @@ Período:Jan/2008-Fev/2026
 "4313 METROPOLITANA";302;390;462;512;410;565;685;589;471;441;482;757;869;795;851;811;890;848;132;11262
 "4314 CENTRO-OESTE";246;170;194;117;128;104;136;256;247;237;292;270;208;206;209;264;323;256;53;3916
 "Total";1262;1241;1284;1174;1121;1379;1644;1982;1572;1469;1573;1942;1821;1650;1850;1950;2146;2117;366;29543
- Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
- Notas:
  
- Dados referentes aos últimos seis meses, sujeitos a atualização.
- 
- Consulte o site da Secretaria Estadual de Saúde para mais informações.
